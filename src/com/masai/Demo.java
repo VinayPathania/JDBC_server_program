@@ -21,7 +21,7 @@ public class Demo {
             if(con!=null){
                 System.out.println("connected....");
             }
-            
+
 
         } catch (SQLException e) {
             throw new RuntimeException(e);
